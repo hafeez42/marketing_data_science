@@ -1,7 +1,7 @@
 
 Hello there! 👋🏼 
 
-# This is my first Machine learning technical test. Below are the requirements:
+# Machine learning technical test. Below are the requirements:
 
 
 As mentioned in the interview, the first area of our system that we will expect you to be working on is around receipts. Therefore, we’ve come up with some scenarios that will be relevant to your initial tasks. 
